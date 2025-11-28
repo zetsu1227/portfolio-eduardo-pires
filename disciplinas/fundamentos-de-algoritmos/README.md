@@ -1,4 +1,4 @@
-# 🧩 <Nome da Disciplina>
+# 🧩 < Fundamentos De Algoritmos >
 **Período:** 2025/1  
 **Projeto:** Jogo 2D  
 **Professor:** Lucas Nunes Alegre
