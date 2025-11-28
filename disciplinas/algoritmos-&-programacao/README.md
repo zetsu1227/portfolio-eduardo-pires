@@ -1,4 +1,4 @@
-# 🧩 <Algoritmos & Programação>
+# 🧩 < Algoritmos & Programação >
 **Período:** 2025/1  
 **Projeto:** Jogo 2D  
 **Professor:** Renan de Queiroz Maffei
