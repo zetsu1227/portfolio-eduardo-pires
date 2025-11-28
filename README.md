@@ -1,6 +1,6 @@
 # 💻 Portfólio em Ciência da Computação
 
-Este repositório reúne projetos desenvolvidos ao longo do curso de **Ciência da Computação (UFRGS)**, com foco em **boas práticas de codificação, documentação e engenharia de software**.  
+Este repositório reúne projetos desenvolvidos ao longo do curso de **Ciência da Computação (UFRGS)**, com foco em **boas práticas de codificação e de documentação**.  
 Cada pasta representa uma disciplina cursada, contendo código, documentação e reflexões sobre habilidades técnicas e interpessoais.
 
 ---
@@ -8,10 +8,10 @@ Cada pasta representa uma disciplina cursada, contendo código, documentação e
 ## 🧠 Objetivo
 
 Demonstrar o desenvolvimento de competências em:
-- **Técnicas de Programação e Engenharia de Software**
+- **Técnicas de Programação**
 - **Arquitetura e Teste de Sistemas**
 - **Colaboração e Soft Skills**
-- **Resolução de Problemas Reais com Base Científica**
+- **Resolução de Problemas Reais**
 
 ---
 
